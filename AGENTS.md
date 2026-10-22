@@ -1,3 +1,6 @@
+> **Fork note:** This repo is my own version of Pulse. See [PROJECT_BRIEF.md](PROJECT_BRIEF.md) —
+> where it differs from the rules below (e.g. opt-in actions per `docs/project/ACTIONS_POLICY.md`), the brief wins.
+
 # AGENTS.md
 
 # Pulse
